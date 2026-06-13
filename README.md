@@ -7,8 +7,8 @@ Former Software Development Engineer at Huawei Cloud
 Interested in:
 
 * Software Engineering
-* Data Science
 * Artificial Intelligence
+* Data Science
 * Financial Technology
 
 ---
