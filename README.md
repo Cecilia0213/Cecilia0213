@@ -85,7 +85,10 @@ AI-assisted interview preparation system (ongoing MSc project).
 
 ---
 
-## Contact
+## 📫 Connect with Me
 
-* LinkedIn: (add later)
-* Email: [cecilia7910543@gmail.com](mailto:cecilia7910543@gmail.com)
+💼 LinkedIn: [Binhan Li](https://www.linkedin.com/in/binhan-li/)
+
+📧 Email: cecilia7910543@gmail.com
+
+🐙 GitHub: [Cecilia0213](https://github.com/Cecilia0213)
